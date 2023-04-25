@@ -1,0 +1,7 @@
+Aqui devera ser registrado cada caminhao.
+Neste registro devera conter os seguintes dados:
+-Placa do Caminhao.
+-Marca do Caminhao.
+-Tamanho do Caminhao.
+-Tamanho que indique a quantidade de lixo que este caminhao podera levar.
+-Documento do motorista do caminhao (cnh).
