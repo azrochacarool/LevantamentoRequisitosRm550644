@@ -1,0 +1,8 @@
+Aqui deverao ser cadastradas as rotas para os caminhoes seguirem para fazer a coleta seletiva.
+Neste registro deverao ser incluidos:
+-Nome da rua com CEP.
+-Tipo de lixo coletado.
+-Dia.
+-Quantidade de lixo aproximado de acordo com o registro de cada dia ja registrado para saber se o tamanho do caminhao ira ser suficiente.
+-Lista de Caminhoes de cada rota.
+-Caminhao adequeado para o tipo de lixo que ira coletar e a quantidade de acordo com o seu tamanho.
