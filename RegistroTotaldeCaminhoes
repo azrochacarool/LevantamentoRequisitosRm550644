@@ -1,0 +1,5 @@
+Aqui devera ser incluido os dados do total de lixo coletado por todos os caminhoes ao dia.
+Neste registro deverao ser incluidos os seguintes dados:
+-Registro de cada rota com a quantidade de caminhoes ao dia.
+-Regsitro de quantidade do total de lixo ao dia em cada coleta.
+-Registro da soma da do total de quantidade de lixo ao dia coletada por cada caminhao que esteve nas rotas ao dia.
