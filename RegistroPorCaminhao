@@ -1,0 +1,10 @@
+Aqui devera ser registrado a coleta diaria por caminhao.
+Neste registro deverao ser incluidos os seguintes dados:
+-Regitro do caminhao.
+-Registro de cada tipo de lixo que cada caminhao coletou em cada rota.
+-Registro das ruas e rotas.
+-Registro da rota que este caminhao percorreu.
+-Registro da quantidade de lixo de cada rua.
+-Registro de rotas mostrando cada rua que cada rota percorre.
+-Registro de lixo no dia separado por rua e a soma por rota.
+-Registro da quantidadade de lixo coletado no dia selecionado que este caminhao esteve.
