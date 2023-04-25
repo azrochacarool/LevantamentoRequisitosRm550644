@@ -1,0 +1,8 @@
+Aqui devera conter as informacoes de cada rua da regiao em que a coleta seletiva atuara.
+Neste registro deverao conter as seguintes informacoes:
+-Nome da rua.
+-Nome do bairro.
+-Numero do CEP.
+-Nome da cidade.
+-Nome do estado.
+-Nome do pais.
